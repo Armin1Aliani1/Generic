@@ -2,7 +2,7 @@ package com.generic;
 
 import java.util.ArrayList;
 
-public class GenericOne {
+public class Generic1One {
     public static void main(String[] args) {
         ArrayList arrayListOne = new ArrayList<>();
         arrayListOne.add("Armin");
