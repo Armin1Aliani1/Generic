@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Generic1One {
     public static void main(String[] args) {
-        ArrayList arrayListOne = new ArrayList<>();
+        ArrayList arrayListOne = new ArrayList();
         arrayListOne.add("Armin");
         arrayListOne.add("Arian");
         arrayListOne.add("Reza");
