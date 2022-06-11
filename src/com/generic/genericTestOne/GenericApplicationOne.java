@@ -1,6 +1,6 @@
 package com.generic.genericTestOne;
 
-public class GenericApplication {
+public class GenericApplicationOne {
     public static void main(String[] args) {
         MyNonGenericClass myNonGenericClassObject = new MyNonGenericClass();
         System.out.println("Show Integer was called! " + myNonGenericClassObject.showInteger(100));
