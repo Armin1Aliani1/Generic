@@ -6,5 +6,7 @@ public class GenericApplicationOne {
         System.out.println("Show Integer was called! " + myNonGenericClassObject.showInteger(100));
         System.out.println("Show String was called! " + myNonGenericClassObject.showString("Hi"));
         System.out.println("Show Double was called! " + myNonGenericClassObject.showDouble(2.2));
+        System.out.println("Show Char was called! " + myNonGenericClassObject.showCharacter('a'));
+//        System.out.println("Show Car was called! " + myNonGenericClassObject.shwoCar());
     }
 }

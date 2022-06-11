@@ -1,5 +1,7 @@
 package com.generic.genericTestOne;
 
+import com.generic.genericTestTwo.Car;
+
 public class MyNonGenericClass {
     public int showInteger(int i) {
         return i;
@@ -15,5 +17,9 @@ public class MyNonGenericClass {
 
     public char showCharacter(Character ch) {
         return ch;
+    }
+
+    public Car shwoCar(Car car) {
+        return car;
     }
 }
